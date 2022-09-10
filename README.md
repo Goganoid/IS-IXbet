@@ -4,6 +4,11 @@ Student data science champ
 ## Setting up environment
 ```
 conda env create -f environment.yml
+conda activate iasa
+```
+## Launching
+```
+jupyter-lab
 ```
 ## Project structure
 - EDA.ipynb — EDA and training model process
