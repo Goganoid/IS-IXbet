@@ -1,0 +1,17 @@
+name: iasa
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - plotly
+  - seaborn
+  - numpy
+  - matplotlib
+  - jupyterlab
+  - scipy
+  - scikit-learn
+  - tqdm
+  - lightgbm
+prefix: /home/yokano/miniconda3/envs/iasa
