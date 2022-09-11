@@ -4,10 +4,10 @@ Student data science champ
 ## Setting up environment
 ```
 conda env create -f environment.yml
-conda activate iasa
 ```
 ## Launching
 ```
+conda activate iasa
 jupyter-lab
 ```
 ## Project structure
